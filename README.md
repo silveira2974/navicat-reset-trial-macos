@@ -43,6 +43,6 @@
 Clone this repository or download the script directly:
 
 ```bash
-git clone https://github.com/yourusername/navicat-premium-reset-trial.git
+git clone https://github.com/silveira2974/navicat-premium-reset-trial.git
 cd navicat-premium-reset-trial
-chmod +x reset-trial.sh
+chmod +x reset-trial-new.sh
